@@ -1,2 +1,2 @@
 # img
-Just some img
+Just some images
